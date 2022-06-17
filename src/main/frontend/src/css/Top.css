@@ -87,7 +87,7 @@
 	height: 26px;
 	cursor: pointer;
 	z-index: 1;
-	position: fixed;
+	position: absolute;
 }
 
 

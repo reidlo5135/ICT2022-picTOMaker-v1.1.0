@@ -231,14 +231,13 @@ button > p{
 
 /*페이지네이션*/
 .pagenation{
-  float: left;
   list-style: none;
   text-align: center;
   border-radius: 3px;
   color: white;
   padding: 1px;
-  border-top: #E72D71 1px solid;
-  border-bottom: #E72D71 1px solid;
+  /* border-top: #E72D71 1px solid;
+  border-bottom: #E72D71 1px solid; */
 }
 
 .page-item {
